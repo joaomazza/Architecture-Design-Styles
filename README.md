@@ -1,9 +1,12 @@
-# Arquitetura da Escolha 6ASOR 
+# Arquitetura Da Escolha (ux, design thinking e modern web)  
 
+## Turma
+ - 6ASOR
+
+## Professor 
  - Leonardo Carneiro Pinho
 
 ## Equipe
-
 - Eduardo Zanghi - 358095
 - Eryckson Magno - 358550
 - Fernado Tonetto - 359888
