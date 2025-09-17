@@ -219,9 +219,6 @@ O diagrama de componente foca no Microserviço, detalhando sua estrutura interna
 
 Este nível de detalhe permite entender como o Microserviço processa as requisições, aplica políticas de segurança e se comunica com os demais componentes do sistema.
 
-### Link Vídeo Apresentação 
+### 🎥 Vídeo de Apresentação
 
-<h3>🎥 Vídeo de Apresentação</h3>
-<a href="https://fiapcom-my.sharepoint.com/:v:/g/personal/rm359888_fiap_com_br/ETDVv8P9J31IjOIpn-Nu6y0B2L8d72xFWhU5xogp5fbWsQ?nav=...">
-  <img src="video-thumb.png" alt="Clique para assistir" width="600"/>
-</a>
+[![Clique para assistir](https://github.com/joaomazza/Architecture-Design-Styles/blob/main/images/video-thumb.jpeg)](https://fiapcom-my.sharepoint.com/:v:/g/personal/rm359888_fiap_com_br/ETDVv8P9J31IjOIpn-Nu6y0B2L8d72xFWhU5xogp5fbWsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UpoFJm)
