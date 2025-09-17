@@ -174,7 +174,7 @@ Esta seção será desenvolvida na Fase 3 do projeto, com a criação dos diagra
 
 ### 27. Diagrama de Contexto (Nível 1)
 
-![Diagrama de Contexto](https://github.com/joaomazza/Architecture-Design-Styles/images/diagrama_contexto.webp)
+![Diagrama de Contexto](https://github.com/joaomazza/Architecture-Design-Styles/blob/main/images/diagrama_contexto.webp)
 
 O diagrama de contexto apresenta uma visão de alto nível da arquitetura de mensageria corporativa, mostrando as interações entre os principais atores e sistemas. No centro está a Plataforma de Mensageria Corporativa, que interage com:
 
@@ -187,7 +187,7 @@ Este diagrama ilustra claramente o papel central da nova plataforma como interme
 
 ### Diagrama de Container (Nível 2)
 
-![Diagrama de Container](https://github.com/joaomazza/Architecture-Design-Styles/images/diagrama_container.webp)
+![Diagrama de Container](https://github.com/joaomazza/Architecture-Design-Styles/blob/main/images/diagrama_container.webp)
 
 O diagrama de container detalha os principais componentes da Plataforma de Mensageria Corporativa:
 
@@ -199,7 +199,7 @@ O diagrama também mostra as tecnologias de comunicação utilizadas entre os co
 
 ### Diagrama de Componente (Nível 3)
 
-![Diagrama de Componente](https://github.com/joaomazza/Architecture-Design-Styles/images/diagrama_componente.webp)
+![Diagrama de Componente](https://github.com/joaomazza/Architecture-Design-Styles/blob/main/images/diagrama_componente.webp)
 
 O diagrama de componente foca no Microserviço, detalhando sua estrutura interna:
 
