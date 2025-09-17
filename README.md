@@ -221,4 +221,4 @@ Este nível de detalhe permite entender como o Microserviço processa as requisi
 
 ### 🎥 Vídeo de Apresentação
 
-[![Clique para assistir](https://github.com/joaomazza/Architecture-Design-Styles/blob/main/images/video-thumb.jpeg)](https://fiapcom-my.sharepoint.com/:v:/g/personal/rm359888_fiap_com_br/ETDVv8P9J31IjOIpn-Nu6y0B2L8d72xFWhU5xogp5fbWsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UpoFJm)
+[![Clique para assistir](https://github.com/joaomazza/Architecture-Design-Styles/blob/main/images/thumbnail.jpeg)](https://fiapcom-my.sharepoint.com/:v:/g/personal/rm359888_fiap_com_br/ETDVv8P9J31IjOIpn-Nu6y0B2L8d72xFWhU5xogp5fbWsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UpoFJm)
