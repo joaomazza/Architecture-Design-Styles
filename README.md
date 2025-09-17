@@ -221,4 +221,7 @@ Este nível de detalhe permite entender como o Microserviço processa as requisi
 
 ### Link Vídeo Apresentação 
 
-https://fiapcom-my.sharepoint.com/:v:/g/personal/rm359888_fiap_com_br/ETDVv8P9J31IjOIpn-Nu6y0B2L8d72xFWhU5xogp5fbWsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UpoFJm
+<h3>🎥 Vídeo de Apresentação</h3>
+<a href="https://fiapcom-my.sharepoint.com/:v:/g/personal/rm359888_fiap_com_br/ETDVv8P9J31IjOIpn-Nu6y0B2L8d72xFWhU5xogp5fbWsQ?nav=...">
+  <img src="video-thumb.png" alt="Clique para assistir" width="600"/>
+</a>
