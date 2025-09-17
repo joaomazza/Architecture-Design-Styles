@@ -1,5 +1,14 @@
-# Architecture-Design-Styles
-6ASOR / Arquitetura da escolha (ux, design thinking e modern web) / Leonardo Carneiro Pinho
+# Arquitetura da Escolha 6ASOR 
+
+ - Leonardo Carneiro Pinho
+
+## Equipe
+
+- Eduardo Zanghi - 358095
+- Eryckson Magno - 358550
+- Fernado Tonetto - 359888
+- Frederico Boaventura - 358528
+- João Mazza - 357743
 
 # Projeto de Modernização da Arquitetura de Mensageria Corporativa
 
@@ -208,6 +217,8 @@ O diagrama de componente foca no Microserviço, detalhando sua estrutura interna
 3.  **Cliente SendGrid:** Componente que se comunica diretamente com a API do SendGrid.
 
 
-
 Este nível de detalhe permite entender como o Microserviço processa as requisições, aplica políticas de segurança e se comunica com os demais componentes do sistema.
 
+### Link Vídeo Apresentação 
+
+https://fiapcom-my.sharepoint.com/personal/rm359888_fiap_com_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Frm359888%5Ffiap%5Fcom%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es%2FReuni%C3%A3o%20em%20Arquitetura%20da%20Escolha%2D20250916%5F203206%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E985dbd8c%2Dfe66%2D4f7c%2Da927%2D1fcfda8b8580&ga=1&isDarkMode=true
