@@ -94,6 +94,8 @@ O pior cenário seria uma falha total na migração, resultando na interrupção
 
 ### 12. Desenhe uma arquitetura (Modelo Freeform - Versão inicial);
 
+![Modelo Freeform](https://github.com/joaomazza/Architecture-Design-Styles/blob/main/images/freeform.png)
+
 A arquitetura proposta é centrada em uma solução de **Microsserviços** que atua como um ponto de entrada único para todas as solicitações de envio de e-mail. Este gateway será responsável por orquestrar a comunicação entre os diferentes tipos de clientes (aplicações legadas e serviços modernos) e a plataforma de mensageria SaaS (**SendGrid**).
 
 *   **Aplicações Legadas (SMTP):** Para as aplicações que utilizam SMTP sem autenticação, será criado um **Adaptador SMTP**. Este componente será um serviço intermediário que receberá as requisições SMTP, as converterá para chamadas de API REST e as encaminhará para o API Gateway. O Adaptador SMTP será responsável por adicionar a autenticação necessária para a comunicação com o SendGrid.
@@ -135,8 +137,6 @@ Aparentemente, não há padrões ocultos. A arquitetura é baseada em padrões b
 ### 18. Qual é o Metamodelo?
 
 O metamodelo utilizado é o C4 Model, que descreve a arquitetura em diferentes níveis de abstração (Contexto, Container, Componente e Código).
-
-
 
 ### 19. Pode ser discernido no diagrama único?
 
